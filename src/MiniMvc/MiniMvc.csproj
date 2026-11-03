@@ -1,0 +1,7 @@
+<ProjectSdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>MiniMvc</RootNamespace>
+  </PropertyGroup>
+</ProjectSdk>
