@@ -7,9 +7,9 @@ on:
     branches: [main]
 
 env:
-  AZURE_WEBAPP_NAME: mini-mvc-app
+  AZURE_WEBAPP_NAME: westus25601app
   AZURE_WEBAPP_PACKAGE_PATH: src/MiniMvc
-  DOTNET_VERSION: 8.0.x
+  DOTNET_VERSION: 10.0.x
 
 jobs:
   build:
